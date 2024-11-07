@@ -1,13 +1,13 @@
-package org.indoles.aution;
+package org.indoles.auction;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AutionApplication {
+public class AuctionApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AutionApplication.class, args);
+        SpringApplication.run(AuctionApplication.class, args);
     }
 
 }
