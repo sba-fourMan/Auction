@@ -1,3 +1,6 @@
 [submodule "auction-apiGateway-server"]
 	path = auction-apiGateway-server
 	url = https://github.com/sba-indoles/auction-apiGateway-server.git
+[submodule "memeber-service-server"]
+	path = memeber-service-server
+	url = https://github.com/sba-indoles/memeber-service-server.git
