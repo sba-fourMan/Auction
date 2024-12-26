@@ -1,2 +1,6 @@
 .idea/*
 /src/*
+.gitattributes
+.gitmodules
+.gradle/*
+gradle/*

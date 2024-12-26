@@ -7,3 +7,6 @@
 [submodule "auction-service-server"]
 	path = auction-service-server
 	url = https://github.com/sba-indoles/auction-service-server.git
+[submodule "receipt-service-server"]
+	path = receipt-service-server
+	url = https://github.com/sba-indoles/receipt-service-server.git
