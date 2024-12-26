@@ -4,3 +4,6 @@
 [submodule "memeber-service-server"]
 	path = memeber-service-server
 	url = https://github.com/sba-indoles/memeber-service-server.git
+[submodule "auction-service-server"]
+	path = auction-service-server
+	url = https://github.com/sba-indoles/auction-service-server.git
